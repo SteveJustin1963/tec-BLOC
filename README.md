@@ -6,6 +6,7 @@ tec1 ballistic laser optic control
   - wind estimate input 
   - roll, pitch, yaw data from MEMS
 - then run ballistics calculations to dynamically update scope targeting
+- scopes can be optical, reflex sight, red dot, etc
 
 
 
