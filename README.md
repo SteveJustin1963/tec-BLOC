@@ -3,8 +3,8 @@ tec1 ballistic laser optic control
 
 - an experimental tec-1 controlled scope targeting system using data from 
   - laser range finder
-  - wind estimate input 
-  - roll, pitch, yaw data from MEMS
+  - cross wind input 
+  - roll, pitch, yaw data fromof rifle using MEMS device
 - then run ballistics calculations to dynamically update scope targeting
 - scopes can be optical, reflex sight, red dot, etc
 
